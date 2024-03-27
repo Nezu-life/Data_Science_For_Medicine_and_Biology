@@ -23,6 +23,7 @@ Basically, you can reproduce and study all contents that you saw in the course.
 
 And THANKS for everyone who joined our community. You are NOT alone in this challenge.
 
+> - **Youtube:** https://discord.gg/SU2sEsV3](https://www.youtube.com/@NezuLifeSciences-English
 > - **Facebook:** https://www.facebook.com/profile.php?id=61553356708703
 > - **Twitter/X:** https://twitter.com/NezuLifeEnglish
 > - **Linkedin:** https://www.linkedin.com/groups/14353421/
