@@ -1,0 +1,16 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+FControl,FDrug_1,-34.8,0.0,-43.2946,-26.3054,True
+FControl,FDrug_2,-32.0,0.0,-40.4946,-23.5054,True
+FControl,MControl,-1.6,0.9939,-10.0946,6.8946,False
+FControl,MDrug_1,0.6667,0.9999,-7.8279,9.1613,False
+FControl,MDrug_2,-0.2667,1.0,-8.7613,8.2279,False
+FDrug_1,FDrug_2,2.8,0.9287,-5.6946,11.2946,False
+FDrug_1,MControl,33.2,0.0,24.7054,41.6946,True
+FDrug_1,MDrug_1,35.4667,0.0,26.9721,43.9613,True
+FDrug_1,MDrug_2,34.5333,0.0,26.0387,43.0279,True
+FDrug_2,MControl,30.4,0.0,21.9054,38.8946,True
+FDrug_2,MDrug_1,32.6667,0.0,24.1721,41.1613,True
+FDrug_2,MDrug_2,31.7333,0.0,23.2387,40.2279,True
+MControl,MDrug_1,2.2667,0.9705,-6.2279,10.7613,False
+MControl,MDrug_2,1.3333,0.9974,-7.1613,9.8279,False
+MDrug_1,MDrug_2,-0.9333,0.9995,-9.4279,7.5613,False
