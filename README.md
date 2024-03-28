@@ -10,6 +10,8 @@ Data Science and Machine Learning became a fundamental part of life sciences. Th
 
 Here, you will find all the source code and datasets for the course.
 
+> - **Data Science for Medicine and Biology:** https://www.nezulife.com/p/data-science-for-medicine-and-biology
+
 The organization of the material is:
 
 > - **/datasets** - contains the datasets to reproduce everything you saw in the lessons and to create the figures.
