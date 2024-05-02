@@ -18,10 +18,6 @@ The organization of the material is:
 > - **/Machine_Learning** - all material to train, evaluate and test classifiers (and other algorithms).
 > - **/Colab_Notebooks** - ready to download and use Colab Notebooks for all lessons.
 
-Basically, you can reproduce and study all contents that you saw in the course.
-
-> - **The course itself:** https://www.nezulife.com/p/data-science-for-medicine-and-biology
-
 And THANKS for everyone who joined our community. You are NOT alone in this challenge.
 
 > - **Youtube:** https://www.youtube.com/@NezuLifeSciences-English
